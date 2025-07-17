@@ -5,22 +5,22 @@ Hướng dẫn sử dụng :
 
 Bước 1: Đầu tiên tải file từ trang release về:
 
-```
-https://github.com/pftmclub/Bloody-Roar-Lan-Emu-Server/releases/download/1.0/BloodyRoar_LanEmuVpn.zip
-```
 
+[https://github.com/pftmclub/Bloody-Roar-Lan-Emu-Server/releases/download/1.0/BloodyRoar_LanEmuVpn.7z](https://github.com/pftmclub/Bloody-Roar-Lan-Emu-Server/releases/download/1.0/BloodyRoar_LanEmuVpn.7z)
+
+<br>
 
 
 <img width="969" height="571" alt="001" src="https://github.com/user-attachments/assets/5f2dae8a-6f5d-4585-a257-f0399c4b1190" /> <br>
 
-Sau đó tải về giải nén ra, truy cập vào thư mục ``driver`` , chuột phải vào ``add_adapter.bat`` và chọn ``Run as administrator`` : <br>
+Sau đó tải về giải nén ra, truy cập vào thư mục ``driver`` , chuột phải vào ``tap-windows-9.24.7-I601-Win10.exe`` và chọn ``Run as administrator`` : <br>
 
 
-<img width="969" height="571" alt="002" src="https://github.com/user-attachments/assets/d6b4a223-6022-4c8d-8644-3fbd31501327" /><br>
+<img width="969" height="571" alt="002" src="https://github.com/user-attachments/assets/28649849-c49d-4828-b56e-55349cdab4f5" /><br>
 
-Sau khi cài đặt xong driver , truy cập vào thư mục ``build``, xóa file ``profile.ini`` <br>
+Sau khi cài đặt xong driver , chuột phải vào ``set_use_tapv9`` và chọn ``Merge`` <br>
 
-<img width="969" height="571" alt="002a" src="https://github.com/user-attachments/assets/7233e782-eb5a-489e-9482-100b9c1e2bea" /><br>
+<img width="969" height="571" alt="002a" src="https://github.com/user-attachments/assets/6a0c38ca-1a05-4841-a10d-9782b74d6ff2" /><br>
 
 Sau khi cài đặt xong driver , truy cập vào thư mục ``build``, chuột phải vào ``Lanemu.exe`` và chọn ``Properties`` : <br>
 
@@ -63,6 +63,8 @@ Tên server "Bloody Roar Viet Nam" sẽ hiện ra, bạn chuột phải vào tê
 <img width="825" height="835" alt="012" src="https://github.com/user-attachments/assets/37194a9d-7740-4b7d-8655-4d14ba58730b" /><br>
 
 Như vậy là bạn đã thành công trong việc kết nối tới server Bloody Roar, chúc các bạn thành công
+
+
 
 
 
