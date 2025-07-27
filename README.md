@@ -1,6 +1,9 @@
 # Bloody-Roar-Lan-Emu-Server
 Lanemu P2P VPN for Bloody Roar
 
+[![en](https://img.shields.io/badge/lang-en-purple.svg)](README.en.md)
+[![vn](https://img.shields.io/badge/lang-vn-green.svg)](README.md)
+
 Hướng dẫn sử dụng :
 
 Bước 1: Đầu tiên tải file từ trang release về:
