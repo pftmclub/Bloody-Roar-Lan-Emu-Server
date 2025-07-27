@@ -119,6 +119,8 @@ Tên server "Bloody Roar Viet Nam" sẽ hiện ra, bạn chuột phải vào tê
 Như vậy là bạn đã thành công trong việc kết nối tới server Bloody Roar, chúc các bạn thành công
 
 
+[Quay lại đầu trang](#bloody-roar-lan-emu-server)
+
 ## English Tutorial
 How to use :
 
@@ -231,7 +233,7 @@ The server name "Bloody Roar Viet Nam" will visiable below, Right click the user
 
 This tutorial is done, thanks for reading !
 
-
+[Go back to top](#bloody-roar-lan-emu-server)
 
 
 
